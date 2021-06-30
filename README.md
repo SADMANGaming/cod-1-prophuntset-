@@ -1,7 +1,3 @@
-# cod-1-prophuntset-
-Mod By Indy.
-An HideNSeek Mod
-New Props
-Props-Hider
-Seeker-Seekers
-A Good Mod
+# Call of Duty 1.1 PropHunt Mod.
+ Open CoDaM/modlist.gsc and add this text
+ : [[ register ]]( "Indy's Prophunt", codam\Prophunt::main );
